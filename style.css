@@ -32,14 +32,14 @@ margin-top: 50px;
 
 #render01{
     top: 20%;
-    left: 65%;
-    width: 30%;
+    left: 55%;
+    width: 40%;
 }
 
 #render02{
     left: 10%;
-    width: 30%;
-    top: 110%;
+    width: 40%;
+    top: 300%;
 }
 
 #text{
@@ -47,8 +47,28 @@ margin-top: 50px;
     z-index: 10;
 }
 
-.shell{
+
+
+
+#construction-process{
+    width: 50%;
     top: 250%;
+    left: 25%;
+}
+#plan{
+    width: 50%;
+    top: 65%;
+    left: 0%;
+}
+#detail{
+    width: 50%;
+    top: 100%;
+    left: 50%;
+}
+
+
+.shell{
+    top: 350%;
     width: 15%;
 }
 #shell01{
@@ -76,13 +96,13 @@ margin-top: 50px;
     top:160%;
 }
 #exp02{
-    top:180%;
-}
-#exp03{
     top:200%;
 }
-#exp04{
+#exp03{
     top:220%;
+}
+#exp04{
+    top:180%;
 }
 
 
