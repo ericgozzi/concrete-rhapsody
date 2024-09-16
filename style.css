@@ -39,10 +39,54 @@ margin-top: 50px;
 #render02{
     left: 10%;
     width: 30%;
-    top: 80%;
+    top: 110%;
 }
 
 #text{
     width: 50%;
     z-index: 10;
+}
+
+.shell{
+    top: 250%;
+    width: 15%;
+}
+#shell01{
+    left: 5%;
+}
+#shell02{
+    left: 23.75%;
+}
+#shell03{
+    left: 42.5%;
+}
+#shell04{
+    left: 61.25%;
+}
+#shell05{
+    left: 80%;
+}
+
+
+.exp{
+    width: 20%;
+    left: 10%
+}
+#exp01{
+    top:160%;
+}
+#exp02{
+    top:180%;
+}
+#exp03{
+    top:200%;
+}
+#exp04{
+    top:220%;
+}
+
+
+
+#footer{
+    top: 500%;
 }
