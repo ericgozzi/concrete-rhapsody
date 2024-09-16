@@ -1,8 +1,48 @@
 h1{
-    color:blue;
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+
+p{
+    font-family: 'Courier New', Courier, monospace;
 }
 
 
 img{
     width: 300px;
+    margin: auto;
+}
+
+
+section{
+margin-top: 50px;
+   margin-left: 10%;
+   margin-right: 10%;
+   width: 80%;
+   height: 100%;
+}
+
+.draggable{
+    position: absolute; /* Position absolutely to move freely */
+    cursor: move; /* Indicate that the element is draggable */
+    user-select: none; /* Prevent text selection while dragging */
+}
+
+#render01{
+    top: 20%;
+    left: 65%;
+    width: 30%;
+}
+
+#render02{
+    left: 10%;
+    width: 30%;
+    top: 80%;
+}
+
+#text{
+    width: 50%;
+    z-index: 10;
 }
