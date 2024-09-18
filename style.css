@@ -31,7 +31,7 @@ margin-top: 50px;
 }
 
 #render01{
-    top: 20%;
+    top: 30%;
     left: 65%;
     width: 30%;
 }
@@ -39,7 +39,12 @@ margin-top: 50px;
 #render02{
     left: 10%;
     width: 30%;
-    top: 110%;
+    top: 100%;
+}
+
+#render03{
+    width: 20%;
+    top: 250%;
 }
 
 #text{
@@ -47,8 +52,26 @@ margin-top: 50px;
     z-index: 10;
 }
 
+#plan-section{
+    top: 75%;
+    width: 50%;
+    right: 10%;
+}
+
+#detail{
+    top: 150%;
+    width: 50%;
+    left: 2%;
+}
+
+#workflow{
+    top: 240%;
+    right: 2%;
+    width: 50%;
+}
+
 .shell{
-    top: 250%;
+    top: 220%;
     width: 15%;
 }
 #shell01{
@@ -73,16 +96,16 @@ margin-top: 50px;
     left: 10%
 }
 #exp01{
-    top:160%;
+    top:300%;
 }
 #exp02{
-    top:180%;
+    top:320%;
 }
 #exp03{
-    top:200%;
+    top:340%;
 }
 #exp04{
-    top:220%;
+    top:360%;
 }
 
 
