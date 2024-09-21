@@ -4,8 +4,15 @@ h1{
     font-size: 50px;
 }
 
+h2{
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
 
 p{
+    color: black;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -28,6 +35,7 @@ margin-top: 50px;
     position: absolute; /* Position absolutely to move freely */
     cursor: move; /* Indicate that the element is draggable */
     user-select: none; /* Prevent text selection while dragging */
+    resize: both;
 }
 
 #render01{
