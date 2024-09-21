@@ -34,45 +34,59 @@ margin-top: 50px;
     top: 30%;
     left: 65%;
     width: 30%;
+    max-width: 300px;
+
 }
 
 #render02{
     left: 10%;
     width: 30%;
     top: 100%;
+    max-width: 300px;
+
 }
 
 #render03{
     width: 20%;
     top: 250%;
+    max-width: 300px;
 }
 
 #text{
     width: 50%;
     z-index: 10;
+    max-width: 500px;
+    top: 30%;
 }
 
 #plan-section{
-    top: 75%;
+    top: 100%;
     width: 50%;
     right: 10%;
+    max-width: 500px;
+
 }
 
 #detail{
     top: 150%;
     width: 50%;
     left: 2%;
+    max-width: 500px;
+
 }
 
 #workflow{
     top: 240%;
-    right: 2%;
+    right: 5%;
     width: 50%;
+    max-width: 500px;
+
 }
 
 .shell{
     top: 220%;
     width: 15%;
+    max-width: 300px;
 }
 #shell01{
     left: 5%;
@@ -93,7 +107,8 @@ margin-top: 50px;
 
 .exp{
     width: 20%;
-    left: 10%
+    left: 10%;
+    max-width: 300px;
 }
 #exp01{
     top:300%;
@@ -107,6 +122,61 @@ margin-top: 50px;
 #exp04{
     top:360%;
 }
+
+
+.cyl{
+    width: 15%;
+    right: 20%;
+    max-width: 200px;
+}
+#cyl01{
+    top: 325%;
+}
+#cyl02{
+    top: 350%;
+}
+#cyl03{
+    top: 375%;
+}
+#cyl04{
+    top: 400%;
+}
+#cyl05{
+    top: 425%;
+}
+#cyl06{
+    top: 450%;
+}
+#cyl07{
+    top: 475%;
+}
+
+.picto{
+    width: 5%;
+    right: 15%;
+}
+#picto01{
+    top: 333%;
+}
+#picto02{
+    top: 358%;
+}
+#picto03{
+    top: 407%;
+}
+#picto04{
+    top: 433%;
+}
+#picto05{
+    top: 383%;
+}
+#picto06{
+    top: 483%;
+}
+#picto07{
+    top: 458%;
+}
+
 
 
 
